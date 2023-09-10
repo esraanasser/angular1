@@ -1,0 +1,22 @@
+.line[_ngcontent-nla-c6] {
+    height: 4px;
+    width: 80px;
+    background-color: rgb(44, 62, 80);
+}
+.row>* {
+    flex-shrink: 0;
+    /* width: 100%;
+    max-width: 100%; */
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+}
+.layer__[_ngcontent-nla-c19] {
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
+.layer__[_ngcontent-nla-c19]:hover {
+    opacity: 1;
+}

@@ -1,0 +1,18 @@
+.line[_ngcontent-nla-c6] {
+    height: 4px;
+    width: 80px;
+    background-color: rgb(44, 62, 80);
+
+}
+.__top[_ngcontent-nla-c16] {
+    top: 40px!important;
+}
+label[_ngcontent-nla-c16] {
+    color:#1abc9c;
+    margin-bottom: 7px;
+    transition: .6s top;
+}
+
+input.form-control[_ngcontent-nla-c16]:focus {
+    box-shadow: none;
+}

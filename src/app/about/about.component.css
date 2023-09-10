@@ -1,0 +1,21 @@
+:root {
+    --main-color: #1abc9c;
+    --second-color: #2c3e50;
+}
+.about[_ngcontent-nla-c7] {
+background-color: #1abc9c;
+
+    /* background-color: var(--main-color); */
+}
+.text-white {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
+}
+.text-uppercase {
+    text-transform: uppercase!important;
+}
+.line[_ngcontent-nla-c6] {
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
